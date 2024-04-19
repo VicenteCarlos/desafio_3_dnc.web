@@ -1,6 +1,8 @@
 # Desafio 2 - DNC
 
-Neste projeto, foi aplicado os conceitos de SOLID, além de incluir boas práticas de requisição http
+Neste projeto, foi aplicado os conceitos de SOLID, além de servir como demonstração das habilidades.
+
+- Observações: Não vi a necessidade de implementar algum hook do React, pois é uma página estática.
 
 ## Links
 
