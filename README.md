@@ -1,4 +1,4 @@
-# Desafio 2 - DNC
+# Desafio 3 - DNC
 
 Neste projeto, foi aplicado os conceitos de SOLID, além de servir como demonstração das habilidades.
 
